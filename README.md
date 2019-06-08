@@ -1,4 +1,4 @@
-u16cppall
+u16cpp
 
 Docker image for C++ on Ubuntu 16.04. Available GCC and Clang versions:
 
